@@ -1,0 +1,262 @@
+body, html {
+	height: 100%;
+}
+
+.container-fluid {
+	padding-right: 200px;
+	padding-left: 200px;
+}
+
+.navbar {
+	font-weight: bold;
+}
+
+#container {
+	position: relative;
+	width: 100%;
+	min-height: 100%;
+	height: 100%;
+	top: -72px;
+	padding-top: 75px;
+	padding-bottom: 40px;
+}
+
+#contents {
+	height: 100%;
+	padding-bottom: 50px;
+	padding-right: 200px;
+	padding-left: 200px;
+	overflow: scroll;
+}
+
+#character {
+	width: 25%;
+	margin-right: 10px;
+	padding: 50px 20px;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+.select {
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.category-title {
+	font-weight: bold;
+}
+
+#data {
+	width: 74%;
+	padding: 30px;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+#save {
+	margin-bottom: 10px;
+}
+
+#total-status {
+	height: 80px;
+	margin-bottom: 10px;
+	padding: 10px;
+	padding-left: 25px;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+#total-status table {
+	table-layout: fixed;
+}
+
+#total-status table td {
+	width: 50px;
+	text-align: center;
+}
+
+#first-status {
+	height: 220px;
+	margin-bottom: 10px;
+	padding: 10px;
+	padding-left: 25px;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+#second-status {
+	height: 220px;
+	margin-bottom: 10px;
+	padding: 10px;
+	padding-left: 25px;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+#third-status {
+	height: 220px;
+	margin-bottom: 10px;
+	padding: 10px;
+	padding-left: 25px;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+#fourth-status {
+	height: 220px;
+	margin-bottom: 10px;
+	padding: 10px;
+	padding-left: 25px;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+#fifth-status {
+	height: 220px;
+	margin-bottom: 10px;
+	padding: 10px;
+	padding-left: 25px;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+#sixth-status {
+	height: 220px;
+	margin-bottom: 10px;
+	padding: 10px;
+	padding-left: 25px;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+.status-box-title {
+	font-weight: bold;
+	text-decoration: underline;
+	padding-left: 0;
+	margin-bottom: 10px;
+}
+
+.left-status-box {
+	height: 10px;
+	padding: 0;
+}
+
+.left-status-box table {
+	padding: 0;
+	width: 80%;
+}
+
+.left-status-box tr {
+	height: 30px;
+}
+
+.left-status-box td[class] {
+	text-align: right;
+}
+
+.center-status-box {
+	padding: 0;
+	text-align: left;
+}
+
+.center-status-box table {
+	width: 100%;
+}
+
+.center-status-box tr {
+	height: 30px;
+}
+
+.right-status-box {
+	height: 10px;
+	padding: 0;
+}
+
+.right-status-box tr {
+	height: 30px;
+}
+
+#footer {
+	position: absolute;
+	color: Gainsboro;
+	background-color: #081426;	
+	bottom: 0;
+	width: 100%;
+	height: 50px;
+	text-align: center;
+	font-weight: bold;
+	padding-top: 15px;
+}
+
+img {
+	width: 0;
+	height: 0;
+}
+
+.hp {
+	font-weight: bold;
+	color: #00ff00;
+}
+
+.atk {
+	font-weight: bold;
+	color: #ff0000;
+}
+
+.def {
+	font-weight: bold;
+	color: #017aff;
+}
+
+.matk {
+	font-weight: bold;
+	color: #8800ff;
+}
+
+.mdef {
+	font-weight: bold;
+	color: #ff00ff;
+}
+
+.first-skill {
+	font-weight: bold;
+}	
+
+.second-skill {
+	font-weight: bold;
+}	
+
+.third-skill {
+	font-weight: bold;
+}	
+
+.fourth-skill {
+	font-weight: bold;
+}	
+
+.fb_iframe_widget {
+	top: -4px;
+}
+
+#notice {
+	border:1px solid;
+	border-radius: 5px;
+	height: 100px; 
+	margin-bottom: 10px;
+	padding: 20px;
+}
+
+#sns {
+	float: left;
+	width: 130px;
+	height: 100px; 
+	margin-bottom: 10px;
+}
+
+#sns iframe {
+	margin-bottom: 15px;
+}
+
+#sns div {
+	margin-bottom: 15px;
+}
